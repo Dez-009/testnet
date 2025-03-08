@@ -1,2 +1,2 @@
 a = peanuts
-print ("hello world")
+print (a)
